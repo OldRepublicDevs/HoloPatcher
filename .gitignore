@@ -153,3 +153,4 @@ vendor/KotOR.js/vendor/PyKotor/
 .tmp_whl/
 
 src/holopatcher.egg-info/
+src/holopatcher/__pycache__/
